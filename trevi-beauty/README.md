@@ -1,4 +1,4 @@
-# Glamora — Beauty & Makeup E-Commerce Platform
+# Trevi Beauty Makeup E-Commerce Platform
 
 A full-stack e-commerce application for makeup and beauty products, built with FastAPI, React, and PostgreSQL. Features a live transactional database, a separate reporting/analytics database, and an automated ETL pipeline.
 
